@@ -1,5 +1,6 @@
 # Bug-Bounty
 “Opportunities don’t happen. You create them.” — Chris Grosser
+
 Bersecbbt - Bug Bounty Hunting Toolkit 🚀
 More than 90+ tools for recon, scanning, fuzzing, exploitation — in ONE command.
 
@@ -8,6 +9,7 @@ Inspired by:
 InfoSec community scripts
 
 ✨ Features
+{
 ✅ 90+ carefully selected tools
 ✅ For Recon, Fuzzing, Scanning, CMS, XSS, SQLi, SSRF, Git leaks, Prototype Pollution, JS, CORS, Frameworks
 ✅ Automated Golang + Python3 + Ruby setup
@@ -17,6 +19,7 @@ InfoSec community scripts
 ✅ Uses go install @latest for modern Go support
 ✅ No deprecated Python2
 ✅ No extra logging — simple and fast
+}
 
 📦 Categories & Tools
 Subdomain Enumeration: subfinder, amass, findomain, assetfinder...
